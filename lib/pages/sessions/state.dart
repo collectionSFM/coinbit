@@ -1,0 +1,4 @@
+class SessionsState {
+  List sessions = [
+  ];
+}
